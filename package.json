@@ -1,0 +1,10 @@
+{
+    "name": "@web3-project/contract",
+    "version": "1.0.0",
+    "description": "Smart contracts for the Web3 project",
+    "private": true,
+    "license": "MIT",
+    "dependencies": {
+        "@openzeppelin/contracts": "4.9.2"
+    }
+}
